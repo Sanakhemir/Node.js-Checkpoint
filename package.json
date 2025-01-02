@@ -1,0 +1,22 @@
+{
+  "name": "node.js-checkpoint",
+  "version": "1.0.0",
+  "main": "email-send.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sanakhemir/Node.js-Checkpoint.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Sanakhemir/Node.js-Checkpoint/issues"
+  },
+  "homepage": "https://github.com/Sanakhemir/Node.js-Checkpoint#readme",
+  "description": ""
+}
